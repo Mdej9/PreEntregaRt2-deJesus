@@ -1,3 +1,4 @@
+import { Link, NavLink } from "react-router-dom";
 import Brand from "../assets/images/Brand.jpg"
 import CartWidget from "./CartWidget"
 const NavBar = () =>{
@@ -5,20 +6,20 @@ const NavBar = () =>{
         <div className="container-fluid">
             <div className="row fondoPrincipal p-3">
                 <div className="col-md align-items-center">
-                    <a href="#">
+                    <Link to={"/"}>
                         <img src={Brand} alt="Viure"/>
-                    </a>
+                    </Link>
                 </div>
                 <div className="col">
                     <ul className="nav">
                         <li className="nav-item">
-                            <a className="nav-link t-color-principal active" aria-current="page" href="#">Inicio</a>
+                            <NavLink className="nav-link t-color-principal active" aria-current="page" to={"/"}>Inicio</NavLink>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link t-color-principal" href="#">Línea Mediterranea</a>
+                            <NavLink className="nav-link t-color-principal" to={"/category/Linea Mediterranea"}>Línea Mediterranea</NavLink>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link t-color-principal" href="#">Línea Pacifico</a>
+                            <NavLink className="nav-link t-color-principal" to={"/category/Linea Pacifico"}>Línea Pacifico</NavLink>
                         </li>
                     </ul>
                 </div>
