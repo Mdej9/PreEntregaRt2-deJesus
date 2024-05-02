@@ -1,0 +1,9 @@
+[
+    {"id":1, "nombre":"Vespre", "descripcion":"Diametro de la esfera: 40mm,Grosor de la caja: 6.9mm,Esfera: Blanca Perlada, Cristal: Templado antirrayaduras, Caja y Correa: Acero inoxidable 316L, Cierre: Hebilla regulable, Resistencia al agua: 3 ATM, Empaque: Manual y certificado de garantia, Movimiento: Swiss Ronda 763 ","precio":"90.000","imagen":"https://viure.ar/cdn/shop/files/IMG-4728_c0d8f82f-6b2c-4f23-be6f-f866aec918de.png?v=1708981800&width=990", "stock": "10", "categoria": "Linea Mediterranea"},
+
+    {"id":2, "nombre":"Cendra", "descripcion":"Diametro de la esfera: 40mm,Grosor de la caja: 6.9mm,Esfera: Blanca Perlada, Cristal: Templado antirrayaduras, Caja y Correa: Acero inoxidable 316L, Cierre: Hebilla regulable, Resistencia al agua: 3 ATM, Empaque: Manual y certificado de garantia, Movimiento: Swiss Ronda 763 ","precio":"90.000", "imagen":"https://viure.ar/cdn/shop/files/IMG-3743.png?v=1704161932&width=990", "stock": "20", "categoria": "Linea Mediterranea"},
+
+    {"id":3, "nombre":"Bosc", "descripcion":"Diametro de la esfera: 40mm,Grosor de la caja: 6.9mm,Esfera: Blanca Perlada, Cristal: Templado antirrayaduras, Caja y Correa: Acero inoxidable 316L, Cierre: Hebilla regulable, Resistencia al agua: 3 ATM, Empaque: Manual y certificado de garantia, Movimiento: Swiss Ronda 763 ","precio":"90.000", "imagen":"https://viure.ar/cdn/shop/files/IMG-4209.png?v=1705114530&width=990", "stock": "15", "categoria": "Linea Pacifico"},
+
+    {"id":4, "nombre":"Tempesta", "descripcion":"Diametro de la esfera: 40mm,Grosor de la caja: 6.9mm,Esfera: Blanca Perlada, Cristal: Templado antirrayaduras, Caja y Correa: Acero inoxidable 316L, Cierre: Hebilla regulable, Resistencia al agua: 3 ATM, Empaque: Manual y certificado de garantia, Movimiento: Swiss Ronda 763 ","precio":"90.000", "imagen":"https://viure.ar/cdn/shop/files/IMG-4238.jpg?v=1705177171&width=990", "stock": "5", "categoria": "Linea Pacifico"}
+]
